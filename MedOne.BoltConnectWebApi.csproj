@@ -4,6 +4,21 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>latest</LangVersion>
     <SignAssembly>false</SignAssembly>
+    <Version>0.2.1</Version>
+    <Authors>MedOne Systems, LLC.</Authors>
+    <Title>BoltConnectWebApi</Title>
+    <Product>BoltConnectWebApi</Product>
+    <PackageId>BoltConnectWebApi</PackageId>
+    <RepositoryType>Git</RepositoryType>
+    <Description>Library to help custom integration to the MedOne Systems BOLT Connect HL7 feed.</Description>
+    <Copyright>MedOne Systems, LLC, 2019</Copyright>
+    <PackageLicenseUrl>https://github.com/MedOneSystems/BoltConnectWebApi/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/MedOneSystems/BoltConnectWebApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MedOneSystems/BoltConnectWebApi.git</RepositoryUrl>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <DelaySign>false</DelaySign>
+    <PackageReleaseNotes>Library to help custom integration to the MedOne Systems BOLT Connect HL7 feed.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
